@@ -1,0 +1,12 @@
+.example {
+    color: #222;
+    background-color: rgb(0, 247, 255);
+}
+
+ul li .active{
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: brown;
+    background: white;
+    text-decoration: underline;
+}
