@@ -16,11 +16,68 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Live Url:
 https://hobby-hub-app-1edcb.web.app
 
-## Bullet points:
-- Discover Local Hobby Groups
-- Create & Manage Your Own Groups 
-- Connect People Through Shared Passions
-- Secure Authentication & Real-Time Updates
-- Responsive & Mobile-Friendly Design
+## Project Overview
+- HobbyHeaven is a local hobby group organizer that lets users discover, join, and create hobby-based communities such as book clubs, hiking crews, painting circles, and more.
+The platform fosters social engagement through shared interests, offering tools for group creation, event scheduling, and membership management — all wrapped in a responsive, user-friendly interface.
 
-git clone https://github.com/kousar-21/hobby-Haven-client
+## Technologies Used
+
+- React 19 
+- Tailwind CSS & DaisyUI (UI styling and responsive design)
+- Swiper.js (banners & sliders)
+- React Router 
+- Firebase (authentication & hosting)
+- React Hot Toast & SweetAlert2 (alerts & notifications)
+- React Icons & React Tooltip (icons & tooltips)
+- React Spinners (loading states)
+- Lottie React (animations)
+
+
+## Key Features
+- Public Pages: Home, All Groups, Group Details
+- Private Pages: Create Group, My Groups, Update Group
+- Authentication: Email/password + Google social login
+- Group Management:
+- Create new hobby groups with details like category, location, start date, and member limit
+- Edit and delete your own groups
+- Join groups (unless the start date has passed)
+- Responsive Design: Mobile, tablet, and desktop optimization
+- Dynamic UI Enhancements:
+- Light/Dark theme toggle
+- Animated banners & interactive UI elements
+- Error Handling: Custom toast and alert messages for errors/successes (no default alerts)
+- 404 Not Found Page for invalid routes
+
+
+
+## NPM Packages:
+- [@React](https://vite.dev/guide/)
+- [@React-Router](https://reactrouter.com/home)
+- [@FireBase](https://firebase.google.com/?gad_source=1&gbraid=0AAAAADpUDOiE4O8jp8uQk9KrYZRzfAaGJ&gclid=Cj0KCQjwzrzABhD8ARIsANlSWNPMluZoiSOvw1iLXKNxHM374D2y1B2jBa19YzhZyHV4Lv4MEmFZbTkaAkSnEALw_wcB&gclsrc=aw.ds)
+- [@Tailwind](https://tailwindcss.com/docs/installation/using-vite)
+- [@DaisyUi](https://daisyui.com/)
+- [@Lottie-react](https://www.npmjs.com/package/lottie-react)
+- [@Framer-motion](https://motion.dev/docs)
+- [@React-hot-toast](https://react-hot-toast.com/)
+- [@SweetAlert](https://sweetalert2.github.io/)
+- [@React-Spinners](https://www.davidhu.io/react-spinners/)
+- [@React-icons](https://www.npmjs.com/package/react-icons)
+- [@React-tooltip](https://react-tooltip.com/)
+- [@Swiperjs](https://swiperjs.com/)
+
+
+  
+
+## How to Run Locally
+
+1. Clone the repository
+- git clone https://github.com/kousar-21/edu-Bridge-client
+- cd eduBridge
+
+2. Install dependencies
+- npm install
+
+3. Setup Firebase
+
+4. Run the development server locally
+- npm run dev
