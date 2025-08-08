@@ -11,5 +11,16 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+## Project Name: HobbyHaven
+
+## Live Url:
+https://hobby-hub-app-1edcb.web.app
+
+## Bullet points:
+- Discover Local Hobby Groups
+- Create & Manage Your Own Groups 
+- Connect People Through Shared Passions
+- Secure Authentication & Real-Time Updates
+- Responsive & Mobile-Friendly Design
 
 git clone https://github.com/kousar-21/hobby-Haven-client
