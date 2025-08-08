@@ -71,7 +71,7 @@ The platform fosters social engagement through shared interests, offering tools 
 ## How to Run Locally
 
 1. Clone the repository
-- git clone https://github.com/kousar-21/edu-Bridge-client
+- git clone https://github.com/kousar-21/hobby-Haven-client
 - cd eduBridge
 
 2. Install dependencies
